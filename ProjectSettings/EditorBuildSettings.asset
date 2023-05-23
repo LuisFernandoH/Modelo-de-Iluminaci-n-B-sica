@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Point Light.unity
+    guid: 42a65d9171b42af4cae80dae89def367
+  - enabled: 1
+    path: Assets/Scenes/Directional Light.unity
+    guid: 46005a66e5037c946806c102e177ce1c
+  - enabled: 1
+    path: Assets/Scenes/Spot Light.unity
+    guid: 24dff8b886179b4438752159f8bdcfd0
+  - enabled: 1
+    path: Assets/Scenes/Area Light.unity
+    guid: 54477de4a8ed07148b7c92341001d618
+  m_configObjects: {}
